@@ -1,0 +1,12 @@
+[21:26:56] [Server thread/INFO]: Unknown command
+[21:26:56] [Server thread/INFO]: <--[HERE]
+[21:28:02] [User Authenticator #3/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[21:28:02] [Server thread/INFO]: legmonkey[/131.107.160.150:48054] logged in with entity id 130415 at (363.1547137139933, 13.5, 357.30000001192093)
+[21:28:02] [Server thread/INFO]: legmonkey joined the game
+[21:28:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[21:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19094ms or 381 ticks behind
+[21:29:01] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[21:29:01] [Server thread/INFO]: legmonkey left the game
+[21:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8216ms or 164 ticks behind
+[21:32:49] [Server thread/INFO]: Unknown command
+[21:32:49] [Server thread/INFO]: /cofh tps<--[HERE]

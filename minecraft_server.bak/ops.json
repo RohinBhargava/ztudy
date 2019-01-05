@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "38cd546d-6944-4616-916f-adb2b1ed0453",
+    "name": "legmonkey",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f8984bbe-b786-4fe9-ad9b-d57faa2d31f0",
+    "name": "Bulkahontas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
