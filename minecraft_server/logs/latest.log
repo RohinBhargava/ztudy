@@ -1,41 +1,19 @@
-[00:42:14] [User Authenticator #8/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[00:42:14] [Server thread/INFO]: Bulkahontas[/38.124.33.243:50784] logged in with entity id 552511 at (259.7014451642869, 63.0, 235.21996095998549)
-[00:42:14] [Server thread/INFO]: Bulkahontas joined the game
-[00:42:36] [User Authenticator #9/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[00:42:36] [Server thread/INFO]: legmonkey[/73.53.60.42:62945] logged in with entity id 553267 at (-1225.5555446087383, 9.0, -3016.669255560949)
-[00:42:36] [Server thread/INFO]: legmonkey joined the game
-[00:43:11] [Server thread/INFO]: <legmonkey> yoooo
-[00:43:14] [Server thread/INFO]: <legmonkey> discord?
-[00:46:09] [Server thread/INFO]: <legmonkey> -1302, 71, -3231
-[00:49:15] [Server thread/INFO]: <Bulkahontas> 275 64 240
-[00:50:17] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to -1301.5, 71.0, -3230.5]
-[01:11:04] [Server thread/INFO]: legmonkey has made the advancement [Hot Stuff]
-[01:28:41] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to legmonkey]
-[01:35:21] [Server thread/WARN]: legmonkey moved wrongly!
-[01:41:46] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to legmonkey]
-[01:44:05] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to legmonkey]
-[01:44:50] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to legmonkey]
-[01:45:26] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to 275.5, 64.0, 240.5]
-[01:46:06] [Server thread/INFO]: [legmonkey: Teleported legmonkey to 275.5, 64.0, 240.5]
-[01:50:54] [Server thread/INFO]: <Bulkahontas> yo
-[01:50:57] [Server thread/INFO]: <legmonkey> yo
-[01:50:57] [Server thread/INFO]: <Bulkahontas> you disconnectedf rom discord
-[01:51:10] [Server thread/INFO]: <legmonkey> yeah on the phone with my dad
-[01:51:12] [Server thread/INFO]: <Bulkahontas> ah word
-[01:51:36] [Server thread/INFO]: <Bulkahontas> hold up i needa grab smth
-[01:51:41] [Server thread/INFO]: <legmonkey> k
-[01:51:44] [Server thread/INFO]: <legmonkey> imma enchang
-[01:52:44] [Server thread/INFO]: <Bulkahontas> aight im good to go
-[01:52:46] [Server thread/INFO]: <Bulkahontas> aight im good to go
-[01:52:51] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to legmonkey]
-[02:04:13] [Server thread/INFO]: [Bulkahontas: Set the time to 6000]
-[02:24:56] [Server thread/INFO]: Bulkahontas has made the advancement [Eye Spy]
-[02:24:59] [Server thread/INFO]: legmonkey has made the advancement [Eye Spy]
-[02:34:54] [Server thread/INFO]: <Bulkahontas> -1881 24 -951
-[02:41:09] [Server thread/INFO]: <legmonkey> dad calling
-[02:41:49] [Server thread/INFO]: <legmonkey> yo I gotta bounce
-[02:41:55] [Server thread/INFO]: <legmonkey> I'll see you later?
-[02:42:48] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[02:42:48] [Server thread/INFO]: legmonkey left the game
-[02:42:48] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
-[02:42:48] [Server thread/INFO]: Bulkahontas left the game
+[03:58:56] [User Authenticator #10/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
+[03:58:56] [Server thread/INFO]: Bulkahontas[/38.124.33.243:52387] logged in with entity id 843939 at (-1844.7551116589138, 10.0, -987.6985676306939)
+[03:58:56] [Server thread/INFO]: Bulkahontas joined the game
+[03:59:18] [User Authenticator #11/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[03:59:18] [Server thread/INFO]: legmonkey[/73.53.60.42:49984] logged in with entity id 844617 at (-1842.9614122483665, 10.0, -988.6999999880791)
+[03:59:18] [Server thread/INFO]: legmonkey joined the game
+[04:03:36] [Server thread/INFO]: <Bulkahontas> -1881 27-948
+[04:06:38] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to 230.5, 70.0, 230.5]
+[04:06:50] [Server thread/INFO]: [legmonkey: Teleported legmonkey to 230.5, 70.0, 230.5]
+[04:18:52] [Server thread/INFO]: [Bulkahontas: Set the time to 13000]
+[04:27:36] [Server thread/INFO]: <Bulkahontas> -299 61 536
+[04:28:43] [Server thread/INFO]: [Bulkahontas: Set the time to 13000]
+[04:35:31] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to -1880.5, 27.0, -947.5]
+[04:35:54] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1880.5, 27.0, -947.5]
+[04:42:10] [Server thread/INFO]: [Bulkahontas: Set the time to 13000]
+[04:44:25] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
+[04:44:25] [Server thread/INFO]: Bulkahontas left the game
+[04:46:25] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[04:46:25] [Server thread/INFO]: legmonkey left the game
