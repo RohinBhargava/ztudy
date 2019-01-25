@@ -1,77 +1,12 @@
-[08:26:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:26:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:26:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:26:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:26:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:26:27] [main/INFO]: Loaded 0 recipes
-[08:26:27] [main/INFO]: Loaded 0 advancements
-[08:26:27] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[08:26:27] [Server thread/INFO]: Loading properties
-[08:26:27] [Server thread/INFO]: Default game type: SURVIVAL
-[08:26:27] [Server thread/INFO]: Generating keypair
-[08:26:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:26:27] [Server thread/INFO]: Using epoll channel type
-[08:26:27] [Server thread/INFO]: Preparing level "world"
-[08:26:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[08:26:28] [Server thread/INFO]: Loaded 524 recipes
-[08:26:28] [Server thread/INFO]: Loaded 571 advancements
-[08:26:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:26:28] [Server thread/INFO]: Preparing spawn area: 4%
-[08:26:28] [Server thread/INFO]: Preparing spawn area: 8%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 12%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 16%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 20%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 24%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 28%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 32%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 36%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 40%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 44%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 48%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 52%
-[08:26:29] [Server thread/INFO]: Preparing spawn area: 56%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 60%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 64%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 68%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 72%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 76%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 80%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 84%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 88%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 92%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 96%
-[08:26:30] [Server thread/INFO]: Preparing spawn area: 100%
-[08:26:30] [Server thread/INFO]: Time elapsed: 2035 ms
-[08:26:30] [Server thread/INFO]: Done (3.091s)! For help, type "help"
-[08:26:30] [Server thread/INFO]: Unknown command
-[08:26:30] [Server thread/INFO]: [A[B<--[HERE]
-[08:26:30] [Server thread/INFO]: Unknown command
-[08:26:30] [Server thread/INFO]: <--[HERE]
-[08:26:30] [Server thread/INFO]: Unknown command
-[08:26:30] [Server thread/INFO]: <--[HERE]
-[08:26:30] [Server thread/INFO]: Unknown command
-[08:26:30] [Server thread/INFO]: <--[HERE]
-[08:26:57] [User Authenticator #1/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[08:26:57] [Server thread/INFO]: legmonkey[/73.53.60.42:53820] logged in with entity id 209 at (-1790.9769153155764, 68.0, -1281.5083457230508)
-[08:26:57] [Server thread/INFO]: legmonkey joined the game
-[08:26:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[08:27:12] [User Authenticator #2/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[08:27:12] [Server thread/INFO]: Bulkahontas[/38.124.33.243:55245] logged in with entity id 509 at (-2055.5962678287483, 102.0, -859.448238627386)
-[08:27:12] [Server thread/INFO]: Bulkahontas joined the game
-[08:27:32] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to -1880.5, 27.0, -947.5]
-[08:27:43] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1880.5, 27.0, -947.5]
-[08:27:48] [Server thread/INFO]: [Bulkahontas: Gave 7 [Eye of Ender] to Bulkahontas]
-[08:29:22] [Server thread/INFO]: Bulkahontas has made the advancement [The End?]
-[08:29:23] [Server thread/WARN]: Bulkahontas moved too quickly! 1980.5243630594125,22.23363200604248,945.4455866836068
-[08:29:24] [Server thread/INFO]: legmonkey has made the advancement [The End?]
-[08:29:24] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[08:29:24] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[08:29:24] [Server thread/INFO]: Found that there's a dragon still alive (ald['Ender Dragon'/5598, l='world', x=33.97, y=77.45, z=-30.48])
-[08:29:24] [Server thread/INFO]: But we didn't have a portal, let's remove it.
-[08:29:24] [Server thread/WARN]: legmonkey moved too quickly! 1981.4234236339546,22.1875,945.5677484889715
-[08:37:16] [Server thread/INFO]: legmonkey has made the advancement [Free the End]
-[08:40:14] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
-[08:40:14] [Server thread/INFO]: Bulkahontas left the game
-[08:47:36] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1879.5, 27.0, -947.5]
-[08:47:49] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[08:47:49] [Server thread/INFO]: legmonkey left the game
+[03:25:40] [User Authenticator #4/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[03:25:40] [Server thread/INFO]: legmonkey[/73.53.60.42:49845] logged in with entity id 22068 at (200.8122668191767, 64.0, 241.4980047284618)
+[03:25:40] [Server thread/INFO]: legmonkey joined the game
+[03:28:34] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1880.5, 27.0, -947.5]
+[03:28:46] [Server thread/WARN]: legmonkey moved too quickly! 1980.3834493004013,22.1875,944.7849864309206
+[03:41:54] [Server thread/WARN]: legmonkey moved too quickly! 232.38170213082452,-22.754894825227268,238.05423677117597
+[04:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[04:44:26] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1879.5, 27.0, -946.5]
+[04:44:50] [Server thread/WARN]: legmonkey moved too quickly! 1981.7401917345417,22.23363200604248,945.4617303860108
+[04:47:35] [Server thread/INFO]: legmonkey has made the advancement [Remote Getaway]
+[04:55:44] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[04:55:44] [Server thread/INFO]: legmonkey left the game
