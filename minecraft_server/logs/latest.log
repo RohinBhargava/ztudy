@@ -1,22 +1,5 @@
-[03:25:40] [User Authenticator #4/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[03:25:40] [Server thread/INFO]: legmonkey[/73.53.60.42:49845] logged in with entity id 22068 at (200.8122668191767, 64.0, 241.4980047284618)
-[03:25:40] [Server thread/INFO]: legmonkey joined the game
-[03:28:34] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1880.5, 27.0, -947.5]
-[03:28:46] [Server thread/WARN]: legmonkey moved too quickly! 1980.3834493004013,22.1875,944.7849864309206
-[03:41:54] [Server thread/WARN]: legmonkey moved too quickly! 232.38170213082452,-22.754894825227268,238.05423677117597
-[04:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[04:44:26] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1879.5, 27.0, -946.5]
-[04:44:50] [Server thread/WARN]: legmonkey moved too quickly! 1981.7401917345417,22.23363200604248,945.4617303860108
-[04:47:35] [Server thread/INFO]: legmonkey has made the advancement [Remote Getaway]
-[04:55:44] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[04:55:44] [Server thread/INFO]: legmonkey left the game
-[06:43:03] [User Authenticator #5/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[06:43:03] [Server thread/INFO]: legmonkey[/73.53.60.42:50022] logged in with entity id 160781 at (-623.2673676035674, 61.0, 1084.5268269871444)
-[06:43:03] [Server thread/INFO]: legmonkey joined the game
-[08:24:32] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[08:24:32] [Server thread/INFO]: legmonkey left the game
-[21:14:27] [User Authenticator #6/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[21:14:27] [Server thread/INFO]: legmonkey[/131.107.159.150:21192] logged in with entity id 340736 at (377.3138392275485, 63.0, 367.46701095574014)
-[21:14:27] [Server thread/INFO]: legmonkey joined the game
-[21:18:56] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[21:18:56] [Server thread/INFO]: legmonkey left the game
+[22:06:05] [User Authenticator #11/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[22:06:05] [Server thread/INFO]: legmonkey[/131.107.159.150:19762] logged in with entity id 397814 at (356.4018482725736, 62.07300785814191, 392.3689521959221)
+[22:06:05] [Server thread/INFO]: legmonkey joined the game
+[22:06:35] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[22:06:35] [Server thread/INFO]: legmonkey left the game
