@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-01-31 04:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2019-01-25 06:43:25 +0000"
@@ -568,6 +574,7 @@
       "minecraft:zombie_pigman": "2018-12-19 12:15:43 +0000",
       "minecraft:husk": "2018-12-23 07:47:43 +0000",
       "minecraft:ghast": "2019-01-25 04:14:44 +0000",
+      "minecraft:shulker": "2019-01-31 04:26:22 +0000",
       "minecraft:cave_spider": "2018-12-18 09:53:23 +0000",
       "minecraft:guardian": "2018-12-20 06:52:02 +0000",
       "minecraft:enderman": "2019-01-03 05:52:42 +0000",
@@ -1063,6 +1070,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2018-12-23 07:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-01-31 04:27:59 +0000"
     },
     "done": true
   },
@@ -2133,6 +2146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-01-31 04:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2018-12-18 07:41:34 +0000"
@@ -2346,6 +2365,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-01-02 10:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-01-31 04:27:59 +0000"
     },
     "done": true
   },

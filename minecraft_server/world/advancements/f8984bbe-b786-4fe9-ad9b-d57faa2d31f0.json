@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-01-31 04:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-01-02 10:48:17 +0000"
@@ -206,6 +212,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2018-12-29 06:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-01-31 04:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-01-31 04:08:45 +0000"
     },
     "done": true
   },
@@ -549,6 +567,7 @@
       "minecraft:zombie_pigman": "2018-12-19 12:15:53 +0000",
       "minecraft:husk": "2018-12-23 07:42:43 +0000",
       "minecraft:ghast": "2018-12-19 12:13:41 +0000",
+      "minecraft:shulker": "2019-01-31 04:27:04 +0000",
       "minecraft:cave_spider": "2018-12-18 09:50:29 +0000",
       "minecraft:guardian": "2018-12-20 06:47:38 +0000",
       "minecraft:enderman": "2018-12-19 07:01:00 +0000",
@@ -1012,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-01-31 04:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2018-12-24 09:08:51 +0000"
@@ -1419,6 +1444,7 @@
       "cooked_porkchop": "2018-12-18 22:38:18 +0000",
       "cooked_mutton": "2018-12-19 02:45:43 +0000",
       "cooked_beef": "2018-12-18 08:32:24 +0000",
+      "chorus_fruit": "2019-01-31 04:09:00 +0000",
       "baked_potato": "2018-12-19 02:30:29 +0000",
       "spider_eye": "2018-12-26 06:16:42 +0000",
       "cooked_cod": "2018-12-20 07:47:25 +0000",
@@ -2139,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-01-31 04:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2018-12-18 07:43:50 +0000"
@@ -2190,6 +2222,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-12-18 08:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-01-31 04:08:33 +0000"
     },
     "done": true
   },
@@ -2334,6 +2372,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-01-02 10:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-01-31 04:30:52 +0000"
     },
     "done": true
   },
