@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-01-31 05:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-01-02 10:39:58 +0000"
@@ -1076,6 +1082,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2019-01-31 04:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-01-31 05:13:34 +0000"
     },
     "done": true
   },
@@ -2191,6 +2203,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2018-12-19 11:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-01-31 05:01:48 +0000"
     },
     "done": true
   },
