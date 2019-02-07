@@ -1,46 +1,82 @@
-[01:06:05] [User Authenticator #38/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[01:06:06] [Server thread/INFO]: Bulkahontas[/38.124.33.243:49625] logged in with entity id 1006516 at (297.4287499852545, 64.0, 260.30544550522615)
-[01:06:06] [Server thread/INFO]: Bulkahontas joined the game
-[01:06:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01:07:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:10:29] [User Authenticator #39/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[01:10:29] [Server thread/INFO]: legmonkey[/131.107.159.150:25681] logged in with entity id 1015211 at (270.24654469254796, 63.0, 251.7950050977823)
-[01:10:29] [Server thread/INFO]: legmonkey joined the game
-[01:10:38] [Server thread/INFO]: <legmonkey> whats good
-[01:10:41] [Server thread/INFO]: <Bulkahontas> yo
-[01:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:12:47] [Server thread/INFO]: <Bulkahontas> discord? i could talk and you could type
-[01:12:56] [Server thread/INFO]: <legmonkey> sure
-[01:13:00] [Server thread/INFO]: <legmonkey> wanna explore?
-[01:13:04] [Server thread/INFO]: <Bulkahontas> yea im game
-[01:13:17] [Server thread/INFO]: <legmonkey> hold on pp called
-[01:13:19] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[01:13:19] [Server thread/INFO]: legmonkey left the game
-[01:20:05] [Server thread/INFO]: [Bulkahontas: Teleported Bulkahontas to -1880.5, 27.0, -947.5]
-[01:20:23] [Server thread/WARN]: Bulkahontas moved too quickly! 1981.3235084738903,22.1875,945.5297491009172
-[01:24:10] [User Authenticator #40/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[01:24:10] [Server thread/INFO]: legmonkey[/131.107.159.150:45728] logged in with entity id 1039371 at (49.63948354424568, 63.0, 242.31788917868593)
-[01:24:10] [Server thread/INFO]: legmonkey joined the game
-[01:24:22] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[01:24:22] [Server thread/INFO]: legmonkey left the game
-[01:25:07] [User Authenticator #41/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[01:25:07] [Server thread/INFO]: legmonkey[/131.107.159.150:58303] logged in with entity id 1039765 at (48.659692226587914, 62.0, 249.69999998807907)
-[01:25:07] [Server thread/INFO]: legmonkey joined the game
-[01:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[01:26:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
-[01:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:27:13] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[01:27:13] [Server thread/INFO]: legmonkey left the game
-[01:27:25] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
-[01:27:25] [Server thread/INFO]: Bulkahontas left the game
-[01:27:29] [User Authenticator #42/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[01:27:30] [Server thread/INFO]: Bulkahontas[/38.124.33.243:49677] logged in with entity id 1045326 at (751.8384877470352, 57.0, 1495.5784254996665)
-[01:27:30] [Server thread/INFO]: Bulkahontas joined the game
-[01:29:12] [Server thread/INFO]: Unknown command
-[01:29:12] [Server thread/INFO]: <--[HERE]
-[01:29:56] [Server thread/INFO]: Unknown command
-[01:29:56] [Server thread/INFO]: <legmonkey> hello<--[HERE]
-[01:30:41] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
-[01:30:41] [Server thread/INFO]: Bulkahontas left the game
+[01:34:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:34:26] [main/INFO]: Loaded 0 recipes
+[01:34:26] [main/INFO]: Loaded 0 advancements
+[01:34:26] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[01:34:26] [Server thread/INFO]: Loading properties
+[01:34:26] [Server thread/INFO]: Default game type: SURVIVAL
+[01:34:26] [Server thread/INFO]: Generating keypair
+[01:34:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:34:26] [Server thread/INFO]: Using epoll channel type
+[01:34:26] [Server thread/INFO]: Preparing level "world"
+[01:34:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:34:27] [Server thread/INFO]: Loaded 524 recipes
+[01:34:27] [Server thread/INFO]: Loaded 571 advancements
+[01:34:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:34:27] [Server thread/INFO]: Preparing spawn area: 4%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 8%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 12%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 16%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 20%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 24%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 28%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 32%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 36%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 40%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 44%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 48%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 52%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 56%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 60%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 64%
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 68%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 72%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 76%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 80%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 84%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 88%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 92%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 96%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 100%
+[01:34:29] [Server thread/INFO]: Time elapsed: 1718 ms
+[01:34:29] [Server thread/INFO]: Done (2.870s)! For help, type "help"
+[01:34:29] [Server thread/INFO]: Unknown command
+[01:34:29] [Server thread/INFO]: <--[HERE]
+[01:34:29] [Server thread/INFO]: Unknown command
+[01:34:29] [Server thread/INFO]: <--[HERE]
+[01:34:29] [Server thread/INFO]: Unknown command
+[01:34:29] [Server thread/INFO]: <--[HERE]
+[01:34:29] [Server thread/INFO]: Unknown command
+[01:34:29] [Server thread/INFO]: <--[HERE]
+[01:34:29] [Server thread/INFO]: Unknown command
+[01:34:29] [Server thread/INFO]: <--[HERE]
+[01:34:29] [Server thread/INFO]: Unknown command
+[01:34:29] [Server thread/INFO]: <--[HERE]
+[01:34:44] [User Authenticator #1/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
+[01:34:44] [Server thread/INFO]: Bulkahontas[/38.124.33.243:49732] logged in with entity id 207 at (842.9758317485426, 60.0, 1524.5437786699576)
+[01:34:44] [Server thread/INFO]: Bulkahontas joined the game
+[01:40:07] [User Authenticator #2/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[01:40:07] [Server thread/INFO]: legmonkey[/131.107.159.150:51547] logged in with entity id 1424 at (270.2675090051351, 62.0, 300.61126041530844)
+[01:40:07] [Server thread/INFO]: legmonkey joined the game
+[01:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:42:32] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[01:42:32] [Server thread/INFO]: legmonkey left the game
+[02:10:29] [User Authenticator #3/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[02:10:29] [Server thread/INFO]: legmonkey[/131.107.159.150:43072] logged in with entity id 15576 at (295.23165948175017, 63.0, 325.3778317024991)
+[02:10:29] [Server thread/INFO]: legmonkey joined the game
+[02:12:45] [Server thread/INFO]: [legmonkey: Teleported legmonkey to -1880.5, 27.0, -947.5]
+[02:13:29] [Server thread/WARN]: legmonkey moved too quickly! 1981.3401145455414,22.23363200604248,945.4440023778521
+[02:13:29] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:13:29] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[02:23:58] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[02:23:58] [Server thread/INFO]: legmonkey left the game
+[02:38:37] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
+[02:38:37] [Server thread/INFO]: Bulkahontas left the game
+[03:31:32] [User Authenticator #4/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[03:31:32] [Server thread/INFO]: legmonkey[/73.53.60.42:52242] logged in with entity id 27409 at (1429.6451021986427, 60.0, 539.5337894940587)
+[03:31:32] [Server thread/INFO]: legmonkey joined the game
+[03:33:03] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[03:33:03] [Server thread/INFO]: legmonkey left the game
