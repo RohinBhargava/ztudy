@@ -1,0 +1,50 @@
+{
+  "d3:folder_b/line_b2_end": {
+    "criteria": {
+      "line_b2_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_a/root": {
+    "criteria": {
+      "completion_root": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_b/line_b3_end": {
+    "criteria": {
+      "line_b3_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_b/root": {
+    "criteria": {
+      "challenges_root": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_b/line_b1_end": {
+    "criteria": {
+      "line_b1_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_a/line_a2_end": {
+    "criteria": {
+      "line_a2_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_b/line_b4_end": {
+    "criteria": {
+      "line_b4_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_a/line_a1_end": {
+    "criteria": {
+      "line_a1_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  }
+}
