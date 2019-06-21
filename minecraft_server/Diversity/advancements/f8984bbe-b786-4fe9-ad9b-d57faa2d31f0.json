@@ -1,4 +1,10 @@
 {
+  "d3:folder_c/stalk_top": {
+    "criteria": {
+      "adam_west": "2019-06-20 05:45:41 +0000"
+    },
+    "done": true
+  },
   "d3:folder_b/line_b2_end": {
     "criteria": {
       "line_b2_end": "2019-06-20 04:09:46 +0000"
@@ -38,6 +44,12 @@
   "d3:folder_b/line_b4_end": {
     "criteria": {
       "line_b4_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_a/parkour": {
+    "criteria": {
+      "complete_pink": "2019-06-20 05:53:46 +0000"
     },
     "done": true
   },
