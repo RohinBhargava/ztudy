@@ -1,154 +1,333 @@
-[03:58:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:58:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:58:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:58:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:58:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:58:02] [main/INFO]: Loaded 0 recipes
-[03:58:02] [main/INFO]: Loaded 0 advancements
-[03:58:02] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[03:58:02] [Server thread/INFO]: Loading properties
-[03:58:02] [Server thread/INFO]: Default game type: SURVIVAL
-[03:58:02] [Server thread/INFO]: Generating keypair
-[03:58:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:58:02] [Server thread/INFO]: Using epoll channel type
-[03:58:02] [Server thread/INFO]: Preparing level "Diversity"
-[03:58:02] [Server thread/INFO]: Reloading ResourceManager: Default, diversity3
-[03:58:03] [Server thread/INFO]: Loaded 524 recipes
-[03:58:08] [Server thread/INFO]: Loaded 527 custom command functions
-[03:58:09] [Server thread/INFO]: Loaded 635 advancements
-[03:58:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 4%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 8%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 12%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 16%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 20%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 24%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 28%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 32%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 36%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 40%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 44%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 48%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 52%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 56%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 60%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 64%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 68%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 72%
-[03:58:09] [Server thread/INFO]: Preparing spawn area: 76%
-[03:58:10] [Server thread/INFO]: Preparing spawn area: 80%
-[03:58:10] [Server thread/INFO]: Preparing spawn area: 84%
-[03:58:10] [Server thread/INFO]: Preparing spawn area: 88%
-[03:58:10] [Server thread/INFO]: Preparing spawn area: 92%
-[03:58:10] [Server thread/INFO]: Preparing spawn area: 96%
-[03:58:10] [Server thread/INFO]: Preparing spawn area: 100%
-[03:58:10] [Server thread/INFO]: Time elapsed: 869 ms
-[03:58:10] [Server thread/INFO]: Done (7.239s)! For help, type "help"
-[03:58:18] [User Authenticator #1/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[03:58:19] [Server thread/INFO]: legmonkey[/73.53.60.42:53399] logged in with entity id 1 at (8.5, 102.0, 8.5)
-[03:58:19] [Server thread/INFO]: legmonkey joined the game
-[03:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[03:58:55] [User Authenticator #2/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[03:58:55] [Server thread/INFO]: Bulkahontas[/38.124.33.243:49784] logged in with entity id 5 at (8.5, 102.0, 8.5)
-[03:58:55] [Server thread/INFO]: Bulkahontas joined the game
-[04:09:14] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
-[04:09:14] [Server thread/INFO]: Bulkahontas left the game
-[04:09:20] [User Authenticator #3/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[04:09:20] [Server thread/INFO]: Bulkahontas[/38.124.33.243:49795] logged in with entity id 3149 at (7.2148611926349515, 87.0, 1003.5389271084385)
-[04:09:20] [Server thread/INFO]: Bulkahontas joined the game
-[04:11:06] [Server thread/INFO]: legmonkey fell out of the world
-[04:11:08] [Server thread/WARN]: legmonkey moved too quickly! 16.323090998063797,443.9235217821829,43.610182373428074
-[04:11:33] [Server thread/INFO]: legmonkey fell out of the world
-[04:11:55] [Server thread/INFO]: legmonkey fell out of the world
-[04:12:00] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[04:12:00] [Server thread/INFO]: legmonkey left the game
-[04:12:03] [User Authenticator #4/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[04:12:03] [Server thread/INFO]: legmonkey[/73.53.60.42:54716] logged in with entity id 3182 at (8.5, 87.0, 998.5)
-[04:12:03] [Server thread/INFO]: legmonkey joined the game
-[04:12:20] [Server thread/INFO]: legmonkey fell out of the world
-[04:12:48] [Server thread/INFO]: legmonkey fell out of the world
-[04:13:11] [Server thread/INFO]: legmonkey fell out of the world
-[04:13:30] [Server thread/INFO]: legmonkey fell out of the world
-[04:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[04:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[04:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5384ms or 107 ticks behind
-[04:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[04:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5198ms or 103 ticks behind
-[04:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5139ms or 102 ticks behind
-[04:18:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5172ms or 103 ticks behind
-[04:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4904ms or 98 ticks behind
-[04:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
-[04:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
-[04:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
-[04:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4693ms or 93 ticks behind
-[04:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
-[04:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[04:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
-[04:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind
-[04:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
-[04:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4966ms or 99 ticks behind
-[04:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5124ms or 102 ticks behind
-[04:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4859ms or 97 ticks behind
-[04:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4913ms or 98 ticks behind
-[04:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4905ms or 98 ticks behind
-[04:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
-[04:23:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
-[04:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
-[04:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
-[04:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5250ms or 105 ticks behind
-[04:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[04:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4895ms or 97 ticks behind
-[04:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4783ms or 95 ticks behind
-[04:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4813ms or 96 ticks behind
-[04:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4763ms or 95 ticks behind
-[04:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
-[04:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5320ms or 106 ticks behind
-[04:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5773ms or 115 ticks behind
-[04:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4841ms or 96 ticks behind
-[04:28:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4940ms or 98 ticks behind
-[04:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4939ms or 98 ticks behind
-[04:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4782ms or 95 ticks behind
-[04:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4960ms or 99 ticks behind
-[04:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4909ms or 98 ticks behind
-[04:29:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[04:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5095ms or 101 ticks behind
-[04:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5801ms or 116 ticks behind
-[04:30:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4819ms or 96 ticks behind
-[04:31:18] [Server thread/INFO]: Bulkahontas fell from a high place
-[04:31:53] [Server thread/INFO]: Bulkahontas fell from a high place
-[04:35:03] [Server thread/INFO]: legmonkey fell from a high place
-[04:37:35] [Server thread/INFO]: Bulkahontas fell from a high place
-[04:39:16] [Server thread/INFO]: legmonkey fell from a high place
-[04:39:23] [Server thread/INFO]: legmonkey fell from a high place
-[04:40:52] [Server thread/INFO]: legmonkey fell from a high place
-[04:40:53] [Server thread/WARN]: legmonkey moved too quickly! -1.3649223662210943,47.099998474121094,-0.676228080489409
-[04:42:26] [Server thread/INFO]: legmonkey fell from a high place
-[04:44:16] [Server thread/INFO]: legmonkey fell from a high place
-[04:45:00] [Server thread/INFO]: legmonkey fell from a high place
-[04:46:00] [Server thread/INFO]: legmonkey fell from a high place
-[04:47:13] [Server thread/INFO]: legmonkey fell from a high place
-[04:47:19] [Server thread/INFO]: legmonkey fell from a high place
-[04:47:24] [Server thread/INFO]: legmonkey fell from a high place
-[04:48:37] [Server thread/INFO]: legmonkey fell from a high place
-[04:49:28] [Server thread/INFO]: legmonkey fell from a high place
-[04:59:01] [Server thread/INFO]: Bulkahontas fell from a high place
-[04:59:12] [Server thread/INFO]: legmonkey fell from a high place
-[05:00:46] [Server thread/INFO]: legmonkey fell from a high place
-[05:01:16] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:01:50] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:02:46] [Server thread/INFO]: legmonkey fell from a high place
-[05:03:18] [Server thread/INFO]: legmonkey fell from a high place
-[05:04:37] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:05:13] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:05:14] [Server thread/WARN]: Bulkahontas moved too quickly! 10.74337791924654,65.10000610351562,39.1044459922864
-[05:08:24] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:08:26] [Server thread/WARN]: Bulkahontas moved too quickly! 15.527276484240815,64.10000610351562,64.71398508791071
-[05:17:34] [Server thread/INFO]: legmonkey fell from a high place
-[05:17:49] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:21:14] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:21:25] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:21:37] [Server thread/INFO]: Bulkahontas fell from a high place
-[05:22:12] [Server thread/INFO]: legmonkey lost connection: Disconnected
-[05:22:12] [Server thread/INFO]: legmonkey left the game
-[05:54:00] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
-[05:54:00] [Server thread/INFO]: Bulkahontas left the game
+[21:59:17] [User Authenticator #5/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[21:59:17] [Server thread/INFO]: legmonkey[/73.53.60.42:64636] logged in with entity id 3714 at (1001.887212418706, 66.0, -996.7940615059824)
+[21:59:17] [Server thread/INFO]: legmonkey joined the game
+[21:59:55] [Server thread/INFO]: legmonkey fell out of the world
+[22:01:06] [Server thread/INFO]: legmonkey fell out of the world
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:33] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:34] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:35] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:36] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:37] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:38] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:39] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:40] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:41] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:42] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:43] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:44] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:45] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:46] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:47] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:48] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:49] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:50] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:50] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:50] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:50] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:50] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:02:50] [Server thread/WARN]: Keeping entity minecraft:shulker that already exists with UUID 84ea5e60-a5bb-4183-86aa-152334169e5d
+[22:25:59] [Server thread/INFO]: legmonkey lost connection: Disconnected
+[22:25:59] [Server thread/INFO]: legmonkey left the game
