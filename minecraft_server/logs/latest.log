@@ -1,6 +1,64 @@
-[04:57:33] [User Authenticator #6/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
-[04:57:33] [Server thread/INFO]: legmonkey[/73.53.60.42:50210] logged in with entity id 7664 at (993.9235316997654, 64.0, 22.30000001192093)
-[04:57:33] [Server thread/INFO]: legmonkey joined the game
-[04:59:43] [User Authenticator #7/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
-[04:59:43] [Server thread/INFO]: Bulkahontas[/38.124.33.243:49343] logged in with entity id 7703 at (8.411902791326602, 91.875, 1032.7898684549873)
-[04:59:43] [Server thread/INFO]: Bulkahontas joined the game
+[03:47:47] [User Authenticator #8/INFO]: UUID of player legmonkey is 38cd546d-6944-4616-916f-adb2b1ed0453
+[03:47:47] [Server thread/INFO]: legmonkey[/73.53.60.42:52670] logged in with entity id 16279 at (1009.9038325348188, 64.0, -1.7497645025963267)
+[03:47:47] [Server thread/INFO]: legmonkey joined the game
+[03:52:32] [Server thread/INFO]: legmonkey fell from a high place
+[03:53:23] [Server thread/INFO]: legmonkey fell out of the world
+[03:54:22] [Server thread/INFO]: legmonkey fell out of the world
+[03:54:23] [Server thread/WARN]: legmonkey moved too quickly! 43.09519447115433,437.75644344868704,-58.783796664334204
+[03:55:22] [Server thread/INFO]: legmonkey fell out of the world
+[03:55:29] [Server thread/WARN]: legmonkey moved too quickly! 65.75777407794905,438.72210990646414,-48.04533041202194
+[03:55:53] [Server thread/INFO]: legmonkey fell out of the world
+[03:58:58] [Server thread/INFO]: legmonkey fell out of the world
+[04:00:28] [Server thread/INFO]: legmonkey fell out of the world
+[04:01:17] [Server thread/INFO]: legmonkey fell out of the world
+[04:03:36] [Server thread/INFO]: legmonkey fell out of the world
+[04:06:39] [Server thread/INFO]: legmonkey fell out of the world
+[04:11:21] [Server thread/INFO]: legmonkey was slain by apples
+[04:11:23] [Server thread/WARN]: legmonkey moved too quickly! -85.88549947103365,13.099998474121094,9.637499988079071
+[04:13:05] [Server thread/INFO]: legmonkey was blown up by being greedy
+[04:13:09] [Server thread/WARN]: legmonkey moved too quickly! -85.02902627714911,8.099998474121094,-47.24614459291911
+[04:14:50] [Server thread/INFO]: legmonkey was killed by a very puffy pufferfish using magic
+[04:14:52] [Server thread/WARN]: legmonkey moved too quickly! -81.75138021378325,7.099998474121094,-70.98104064860672
+[04:15:27] [Server thread/INFO]: legmonkey was slain by Drowned
+[04:15:28] [Server thread/WARN]: legmonkey moved too quickly! -84.63813931433106,8.622417308540491,-19.773873422766542
+[04:16:58] [Server thread/INFO]: legmonkey was slain by a rogue jukebox
+[04:17:00] [Server thread/WARN]: legmonkey moved too quickly! -98.46656279771742,11.099998474121094,-75.87630666745144
+[04:19:34] [Server thread/INFO]: legmonkey was blown up by a wicked awesome tune
+[04:19:36] [Server thread/WARN]: legmonkey moved too quickly! -101.02067772595183,10.564157849076537,-50.34047357310487
+[04:23:55] [Server thread/WARN]: Unable to add mob to team "G6CNuggets" (that team probably doesn't exist)
+[04:23:55] [Server thread/WARN]: Unable to add mob to team "G6CNuggets" (that team probably doesn't exist)
+[04:23:55] [Server thread/WARN]: Unable to add mob to team "G6CNuggets" (that team probably doesn't exist)
+[04:23:55] [Server thread/WARN]: Unable to add mob to team "G6CNuggets" (that team probably doesn't exist)
+[04:28:09] [User Authenticator #9/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
+[04:28:09] [Server thread/INFO]: Bulkahontas[/38.124.33.243:51510] logged in with entity id 38292 at (8.49042355963892, 91.875, 1032.205183221514)
+[04:28:09] [Server thread/INFO]: Bulkahontas joined the game
+[04:28:23] [Server thread/INFO]: <legmonkey> bastard
+[04:28:26] [Server thread/INFO]: <Bulkahontas> ats good
+[04:28:31] [Server thread/INFO]: <legmonkey> discord
+[04:28:33] [Server thread/INFO]: <Bulkahontas> ant i tupe properly
+[04:28:54] [Server thread/INFO]: <Bulkahontas> actually ima do something real quick
+[04:28:56] [Server thread/INFO]: <Bulkahontas> ill be back in 10
+[04:28:57] [Server thread/INFO]: Bulkahontas lost connection: Disconnected
+[04:28:57] [Server thread/INFO]: Bulkahontas left the game
+[04:36:19] [User Authenticator #10/INFO]: UUID of player Bulkahontas is f8984bbe-b786-4fe9-ad9b-d57faa2d31f0
+[04:36:19] [Server thread/INFO]: Bulkahontas[/38.124.33.243:51615] logged in with entity id 53918 at (1163.349254215896, 59.0, 1041.6388703707962)
+[04:36:19] [Server thread/INFO]: Bulkahontas joined the game
+[04:37:30] [Server thread/INFO]: Bulkahontas fell out of the world
+[04:37:30] [Server thread/INFO]: [Bulkahontas: Killed Bulkahontas]
+[04:39:20] [Server thread/INFO]: Bulkahontas was slain by THE HULK
+[04:39:25] [Server thread/INFO]: legmonkey was slain by THE HULK
+[04:39:26] [Server thread/WARN]: Fetching addPacket for removed entity
+[04:39:27] [Server thread/WARN]: legmonkey moved too quickly! -161.19999998807907,13.099998474121094,88.19999998807907
+[04:47:29] [Server thread/WARN]: Bulkahontas moved too quickly! 0.013730463740103005,17.717398046097756,0.186139346006712
+[04:47:39] [Server thread/WARN]: Bulkahontas moved too quickly! -0.7153351506283343,18.771200909399994,-0.27690482368643643
+[04:47:43] [Server thread/WARN]: Bulkahontas moved too quickly! 0.0,16.21441953762819,0.10947617576539415
+[04:47:46] [Server thread/WARN]: Bulkahontas moved too quickly! 0.0,18.238977246192476,0.0
+[04:47:50] [Server thread/WARN]: Bulkahontas moved too quickly! 0.01347599191194604,18.771200909399994,0.0
+[04:47:52] [Server thread/WARN]: Bulkahontas moved too quickly! 0.003851577687782992,18.771200909399994,0.0
+[04:47:53] [Server thread/WARN]: Bulkahontas moved too quickly! 0.0,17.717398046097756,0.0
+[04:47:55] [Server thread/WARN]: Bulkahontas moved too quickly! 0.0,18.238977246192476,0.0
+[04:48:04] [Server thread/WARN]: Bulkahontas moved too quickly! 0.0,14.799828106689233,0.0
+[04:48:16] [Server thread/WARN]: Bulkahontas moved too quickly! -0.010285765741173236,15.261865121065313,0.5705791402524483
+[04:49:15] [Server thread/INFO]: Bulkahontas fell out of the world
+[04:49:16] [Server thread/WARN]: Bulkahontas moved too quickly! -153.79362744253422,408.06170924467654,-43.80000001192093
+[04:49:20] [Server thread/INFO]: legmonkey fell out of the world

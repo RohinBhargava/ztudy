@@ -1,10 +1,4 @@
 {
-  "d3:folder_c/stalk_top": {
-    "criteria": {
-      "adam_west": "2019-06-20 05:45:41 +0000"
-    },
-    "done": true
-  },
   "d3:folder_b/line_b2_end": {
     "criteria": {
       "line_b2_end": "2019-06-20 04:09:46 +0000"
@@ -14,6 +8,30 @@
   "d3:folder_a/root": {
     "criteria": {
       "completion_root": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_b/line_b4_end": {
+    "criteria": {
+      "line_b4_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_a/line_a1_end": {
+    "criteria": {
+      "line_a1_end": "2019-06-20 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_c/stalk_top": {
+    "criteria": {
+      "adam_west": "2019-06-20 05:45:41 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_c/puzzle_trap": {
+    "criteria": {
+      "puzzle_trap": "2019-06-27 06:52:16 +0000"
     },
     "done": true
   },
@@ -41,9 +59,15 @@
     },
     "done": true
   },
-  "d3:folder_b/line_b4_end": {
+  "d3:folder_b/one_drop": {
     "criteria": {
-      "line_b4_end": "2019-06-20 04:09:46 +0000"
+      "one_drop": "2019-06-27 07:02:27 +0000"
+    },
+    "done": true
+  },
+  "d3:folder_a/puzzle": {
+    "criteria": {
+      "complete_red": "2019-06-27 06:57:13 +0000"
     },
     "done": true
   },
@@ -53,9 +77,9 @@
     },
     "done": true
   },
-  "d3:folder_a/line_a1_end": {
+  "d3:folder_a/dropper": {
     "criteria": {
-      "line_a1_end": "2019-06-20 04:09:46 +0000"
+      "complete_blue": "2019-06-27 07:35:18 +0000"
     },
     "done": true
   }
